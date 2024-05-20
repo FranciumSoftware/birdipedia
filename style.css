@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    background-image: url("ressources/img/fond.png");
+    font-size:15px;
+}
+a{
+    text-decoration: none;
+    color:#08300e;
+    font-size:15px;
+    
+}
+.list{
+    font-size:25px;
+}
+
+a:hover{
+    color:white;
+    background-color: #08300e;
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+audio{
+    width:50%;
+}
+.content{
+    float:center;
+    background-color: rgba(221, 245, 218,0.9);
+    width:75%;
+    padding:20px;
+    margin:auto;
+    height:100%;
+    border-radius:10px;
+}
+.space{
+    color:rgba(255,255,255,0.9);
+}
+.home{
+    height:30px;
+    width:30px;
+}
+.accueil:hover{
+    background:none;
+    text-decoration:underline;
+}
+.texte{
+    font-size: 20px;
+}
